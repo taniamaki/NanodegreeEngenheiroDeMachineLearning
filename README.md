@@ -3,8 +3,8 @@
 
 ### Dia 05/12/2018
 <p>1. Conheça seu Nanodegree </p>
-  <p> &nbsp;&nbsp;&nbsp; 1.1 Orientações importantes para seu Nanodegree </p>
-  <p> &nbsp;&nbsp;&nbsp; 1.2 Dicas para seu Nanodegree </p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1 Orientações importantes para seu Nanodegree </p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Dicas para seu Nanodegree </p>
 
 ### Dia 06/12/2018
 1. Conheça seu Nanodegree
