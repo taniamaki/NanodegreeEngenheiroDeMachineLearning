@@ -7,7 +7,7 @@
   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Dicas para seu Nanodegree </p>
 
 ### Dia 06/12/2018
-<p> 1. Conheça seu Nanodegree <;p>
+<p> 1. Conheça seu Nanodegree </p>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3 O que é Machine Learning </p>
 
 ### Dia 07/12/2018
